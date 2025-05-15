@@ -29,8 +29,4 @@ The project is divided into three main components, each handled by a different t
 - **Josh** (Data Exchange): Managed the integration of the backend using **FHIR** to retrieve medical appointment data and sync it with Google Calendar for scheduling.
 - **Yusuf** (Backend & Google Integration): Built the backend system that communicates with Google Calendar, ensuring that both the user's and doctors' calendars are properly synced and appointment slots are managed efficiently.
 
-## Installation and Setup
 
-1. Clone the repository to your local machine:
-   ```bash
-   git clone https://github.com/tmmitch25/AI-Powered-Scheduling-Assistant-Architecture.git
